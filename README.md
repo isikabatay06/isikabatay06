@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Işık</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">I have 6 years of experience. I have experience in languages ​​such as PHP, HTML, CSS, PAWN, MySQL, JAVASCRIPT, ASP.NET, C#, PYTHON. I am studying Web Design and Programming in High School.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isikabatay06&label=Profile%20views&color=0e75b6&style=flat" alt="isikabatay06" /> </p>
 
